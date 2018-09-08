@@ -1,0 +1,7 @@
+= About
+
+Example code to demonstrate different ways to access elements of a static
+2-dimensional array in C.
+
+IMPORTANT: The main thing to note is doing pointer arithmetic on
+`int[ROWS][COLS]` and `int *` is different.
