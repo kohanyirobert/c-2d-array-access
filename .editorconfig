@@ -8,7 +8,3 @@ charset = utf-8
 [*.{c,h}]
 indent_style = tab
 indent_size = 8
-
-[*.{py}]
-indent_style = spaces
-indent_size = 4
