@@ -5,3 +5,6 @@ Example code to demonstrate different ways to access elements of a static
 
 IMPORTANT: The main thing to note is doing pointer arithmetic on
 `int[ROWS][COLS]` and `int *` is different.
+
+NOTE: Formatted using http://astyle.sourceforge.net[AStyle].
+Use `astyle --project *.c` to format files.
